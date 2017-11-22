@@ -1,4 +1,4 @@
-#load-awesome-rails#
+# load-awesome-rails #
 
 A gemification of the excellent [LoadAwesome](http://github.danielcardoso.net/load-awesome/) library by [Daniel Cardoso](https://twitter.com/DanielCardoso). Use for all of your rails preloading needs.
 
@@ -37,6 +37,10 @@ And Sass:
 Then restart your websever if it was already running.
 
 Pick a preloader and check out [LoadAwesome Animations](http://github.danielcardoso.net/load-awesome/animations.html).
+
+## Versioning ##
+
+Versioning follows the core releases of LoadAwesome.
 
 ## Licensing ##
 
