@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.licenses        = ['MIT']
 
   gem.files           = `git ls-files -- {app,bin,lib,test}/* {LICENSE*,Rakefile,README*}`.split("\n")
-  gem.test_files      = `git ls-files -- {test}/*`.split("\n")
+  #gem.test_files      = `git ls-files -- {test}/*`.split("\n")
   gem.name            = 'load-awesome-rails'
   gem.require_paths   = ['lib']
   gem.version         = LoadAwesome::Rails::VERSION
