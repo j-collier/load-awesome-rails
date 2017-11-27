@@ -31,7 +31,7 @@ If you are using SCSS include as follows:
 And Sass:
 
 ```
-@import load-awesome;
+@import load-awesome
 ```
 
 Then restart your websever if it was already running.
